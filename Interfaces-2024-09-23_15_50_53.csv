@@ -1,0 +1,2 @@
+﻿"fabricName","deviceName","serialNumber","interfaceName","policyName","ADMIN_STATE","CDP_ENABLE","CONF","DESC","POLICY_DESC"
+"GTS-SITE-A","LEAF-1","FDO24190F7Z","mgmt0","int_mgmt","true","true","  ip address 192.168.60.101/24","",""
